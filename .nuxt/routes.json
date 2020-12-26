@@ -1,9 +1,14 @@
 [
   {
+    "name": "home-id",
+    "path": "/home/:id?",
+    "component": "/Users/tomasleriche/Documents/vueStuff/Nuxtbnb/pages/home/_id.vue",
+    "chunkName": "pages/home/_id"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "/Users/tomasleriche/Documents/vueStuff/Nuxtbnb/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_43f423bc"
+    "chunkName": "pages/index"
   }
 ]
